@@ -22,6 +22,25 @@ Little Fighter 2 Ai Collection written in angelscript by various authors
 ### Configurations
 - Refer to the documentation provided with the AI scripts for any necessary configurations.
 
+## Available AI Scripts
+
+### List of AI Scripts
+- `ai/52.as`: Designed for character Julian, made by YinYin.
+
+### Detailed Information
+- `ai/52.as`: This script is designed for the character Julian. It includes various strategic moves such as Soul Punch, Uppercut, Skull Blast, Mirror Image, Big Bang, and Soul Bomb. The script is designed to make Julian a formidable opponent with a mix of aggressive and defensive tactics.
+
+## Authors
+- YinYin: Author of `ai/52.as`.
+
+## Examples and Use Cases
+- Example: Using `ai/52.as` to enhance Julian's performance in battles, making him more challenging for players to defeat.
+
+## Troubleshooting and Support
+- If you encounter any issues with the AI scripts, ensure that the AngelScript plugin is correctly installed and enabled.
+- Check the configuration settings and make sure the AI scripts are placed in the correct directory.
+- Refer to the documentation provided with the AI scripts for additional support and troubleshooting tips.
+
 ## Contributing Guidelines
 
 ### How to Submit Contributions
